@@ -1,0 +1,6 @@
+import org.apache.commons.text.WordUtils;
+public class FunctionUse765 {
+public void funcUse() {
+WordUtils wordutils = new WordUtils();
+}
+}
